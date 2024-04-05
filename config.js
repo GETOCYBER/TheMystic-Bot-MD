@@ -7,18 +7,18 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "+18293720791"
 global.confirmCode = ""
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
-  ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215517489568', '💫 Mystic - Rey Endymion 💫', false],
+  ['18293720791', '☘️Alternative☘️ - Creador 👑', true],
+  ['50499698072', '☘️ Alternative☘️- Collaborator 1 💫', true],
+  ['51940617554', '☘️Alternative☘️Collaborator 2 💫', true],
+  ['51996089079', '☘️ Alternative - Collaborator 3 💫', true],
+  ['5218442286089', '☘️ Alternative☘️- Collaborator 4 💫', true],
+  ['50246028932', '☘️ Alternative☘️- Collaborator 5 💫', true],
+  ['5212412377467', '☘️ Alternative - Collaborator 6 💫', true],
+  ['5215517489568', 'Alternative - Rey Endymion 💫', false],
   ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
   ['59177601773', '💫 Mystic - By Alba070503 💫', true],
   ['393518398856','💫 Mystic - Tester Fabri115💫', true],
@@ -41,11 +41,11 @@ global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
 global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'The Mystic - Bot';
-global.titulowm2 = `The Mystic - Bot`
-global.igfg = 'The Mystic - Bot';
+global.author = 'Alternative - Bot';
+global.wm = 'Alternative - Bot';
+global.titulowm = 'Alternative - Bot';
+global.titulowm2 = `Alternative - Bot`
+global.igfg = 'Alternative - Bot';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -70,9 +70,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.wm2 = `${dia} ${fecha}\nAlternative - Bot`;
+global.gt = 'Alternative - Bot';
+global.mysticbot = 'Alternative - Bot';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*[ ⏳ ] Cargando...*';
